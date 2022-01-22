@@ -1,5 +1,5 @@
 body {
-    font-family: 'Nunito', Tahoma, Segoe UI, Geneva, Verdana, sans-serif;
+    font-family: 'Verdana', Tahoma,Nunito, Segoe UI, Geneva, Verdana, sans-serif;
     font-size: 12px;
     max-width: 960px;
     margin: auto;
@@ -53,5 +53,5 @@ h1, h2 {
 }
 
 #mainLeft {
-    border-right: 1px solid lightgray;
+    border-right: 1px solid black;
  }
